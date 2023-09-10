@@ -5,7 +5,6 @@ import java.util.Random;
 
 public class GuessTheNumber {
 
-    Scanner scanner = new Scanner(System.in);
     Random random = new Random();
 
     int lowerBound = 1;
